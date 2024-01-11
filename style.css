@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    padding-left: 35px;
+
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft {
+    width: 50%;
+
+}
+
+.topright {
+    width: 50%;
+}
+
+.section1 {
+    height: 50vh;
+    max-height: 100vh;
+    padding-left: 23px;background-color: blanchedalmond;
+
+}
+
+.btn {
+    padding: 8px 0;
+    padding: 7px 12px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color:black bolder;
+    background-color: rgb(242, 242, 5);
+    cursor: pointer;
+    scrollbar-color: pink;
+}
+
+.logo {
+    font-size: 1.3rem;
+}
+
+.topright .gymimg {
+    width: 400px;
+    height: 260px;
+    padding-top: 18px;
+    padding-right: 0px;
+
+}
+
+.section2 {
+   padding:73px;
+   background-color: blanchedalmond;
+}
+
+.section2 h1 {
+    font-size: 2.3rem;
+    color: rgb(151, 76, 25);
+
+}
+
+.section2 p {
+    padding: 0 8vw;
+    text-align:center;
+    margin-top: 30px;
+}
+
+
+.box {
+    padding:8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(137, 79, 25);
+    text-align:center;
+    border-radius: 8px;
+    background-color: aqua;
+}
+
+.box h2 {
+    font-size: 1.5rem;
+    padding: 15px 0;
+}
+
+.highlighted {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.box ul {
+    list-style-type: none;
+    
+    
+    
+}
+
+.box ul li {
+    margin: 12px 2px;
+    
+}
+.header{
+    color:bolder;
+    
+}
+
+.planetable {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.section3 table {
+    width: 60vw;
+    margin-bottom: 140px;
+    margin-top: 40px;
+    border-collapse: collapse;
+
+
+    
+}
+
+.section3 table th {
+    width: 13vw;
+    border-bottom: 2px solid black;
+    padding: 15px;
+    
+}
+
+.section3 table td {
+    border-bottom: 2px solid black;
+}
+
+
+.section3 table tr {
+    border-bottom: 2px solid black;
+}
+
+.section3 h1 {
+    color: rgb(142, 68, 20);
+    font-size: 2.3rem;
+
+}
+
+.section3 {
+    padding: 73px;
+    background-color: blanchedalmond;
+
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+}
+
+.header{
+    font-size:2rem;
+}
+body{
+    background-image: url();
+}
